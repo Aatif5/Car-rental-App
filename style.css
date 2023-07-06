@@ -1,0 +1,19 @@
+.nav-link {
+  font-weight: bold;
+}
+h3 {
+  color: #eee;
+}
+.login-tab {
+  padding: 5px;
+  margin-top: 10px;
+}
+form {
+  margin: 5px;
+}
+.container {
+  margin-top: 10px;
+}
+.card {
+  margin-top: 5px;
+}
